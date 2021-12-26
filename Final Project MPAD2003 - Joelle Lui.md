@@ -1,6 +1,6 @@
 **Dec 27th 2021**
 **MPAD2003A Introductory Data Storytelling**
-**Joelle Lui 101147916**
+**Joelle Lui**
 **Presented to Jean-Sébastien Marier**
 ___
 # Ontario Peppers: Higher Yield but Higher Prices?
