@@ -3,7 +3,7 @@
 **Joelle Lui 101147916**
 **Presented to Jean-Sébastien Marier**
 ___
-#Ontario Peppers: Higher Yield but Higher Prices?
+# Ontario Peppers: Higher Yield but Higher Prices?
 ### By: Joelle Lui
 <br>
 Ontario grows a wide variety of peppers, from sweet to hot, banana to cherry, and others. The most widely grown pepper in Ontario, however, are bell peppers, which are grown in fields or in greenhouses, where farmers use hydroponic systems to grow them. Ontario exports peppers both domestically in Canada and to other countries, such as the United States. Every year, there is a higher demand for locally grown peppers because of the rise in popularity, and in response to the high demand, farmers begin to improve the way they farm to increase the yield. As farmers try to match the demand for peppers, the price of the product is still going up. If Ontario is increasing their pepper yield drastically, why are the prices going up? 
@@ -28,6 +28,7 @@ Greenhouse farming has many benefits for growing produce, which include better c
 
 <iframe title="Average Yield (tonnes/ha) of Ontario Peppers" aria-label="Interactive line chart" id="datawrapper-chart-3m4A3" src="https://datawrapper.dwcdn.net/3m4A3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
 <br>
 <br>
 <br>
@@ -35,8 +36,10 @@ Even though there are better, sustainable, farming techniques, that has contribu
 <br>
 <br>
 <br>
+
 <iframe title="Average Price ($/tonne) of Ontario Peppers " aria-label="Interactive line chart" id="datawrapper-chart-3FemX" src="https://datawrapper.dwcdn.net/3FemX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
 <br>
 <br>
 <br>
