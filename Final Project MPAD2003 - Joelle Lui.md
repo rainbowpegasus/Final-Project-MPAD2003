@@ -25,10 +25,12 @@ As demand is growing for peppers, farmers need to accommodate for this by increa
 
 Greenhouse farming has many benefits for growing produce, which include better control over the environment and growing conditions, a longer growing season because farms can grow produce during the winter, and it can boost organic produce because of reduced use of pesticides. Another benefit would be that they are also able to grow a wide variety of peppers in one greenhouse. Greenhouse farming of peppers allow them to be better in taste, size, appearance, and have an increase of yield. As greenhouses benefit the overall quality of produce, it is also more sustainable because the goal is to maximize energy efficiency while still producing a large amount of crop. One Ontario-based pepper greenhouse, Allegro Acres, has teamed up with Sollum Technologies to create an LED light recipe best suited for pepper production to optimize plant growth for the first time. 
 <br>
+
 <p>
 <iframe title="Average Yield (tonnes/ha) of Ontario Peppers" aria-label="Interactive line chart" id="datawrapper-chart-3m4A3" src="https://datawrapper.dwcdn.net/3m4A3/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 </p>
+
 <br>
 <br>
 <br>
@@ -36,10 +38,12 @@ Even though there are better, sustainable, farming techniques, that has contribu
 <br>
 <br>
 <br>
+
 <p>
 <iframe title="Average Price ($/tonne) of Ontario Peppers " aria-label="Interactive line chart" id="datawrapper-chart-3FemX" src="https://datawrapper.dwcdn.net/3FemX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 </p>
+
 <br>
 <br>
 Ontario’s production of peppers has grown significantly since the 1980s, due to the rising popularity and demand for such product. As years progress, farming techniques improve to allow for a sustainable and efficient way to produce fruits and vegetables, especially during the colder months of the year. Although it is more efficient and profitable to grow tomatoes and cucumbers, there is still a high demand for peppers. Farmers must produce them more than ever as innovative farming is critical for feeding the country and economic growth of our industry. 
