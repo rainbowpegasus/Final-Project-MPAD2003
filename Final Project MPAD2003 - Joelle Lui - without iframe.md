@@ -9,7 +9,6 @@ ___
 Ontario grows a wide variety of peppers, from sweet to hot, banana to cherry, and others. The most widely grown pepper in Ontario, however, are bell peppers, which are grown in fields or in greenhouses, where farmers use hydroponic systems to grow them. Ontario exports peppers both domestically in Canada and to other countries, such as the United States. Every year, there is a higher demand for locally grown peppers because of the rise in popularity, and in response to the high demand, farmers begin to improve the way they farm to increase the yield. As farmers try to match the demand for peppers, the price of the product is still going up. If Ontario is increasing their pepper yield drastically, why are the prices going up? 
 <br>
 <br>
-<br>
 
 <p align="center">
   <img src="sollum_1.jpg">
@@ -18,7 +17,7 @@ Ontario grows a wide variety of peppers, from sweet to hot, banana to cherry, an
   <a href="https://www.hortidaily.com/article/9313875/now-we-can-adjust-our-greenhouse-lighting-in-real-time/">https://www.hortidaily.com/article/9313875/now-we-can-adjust-our-greenhouse-lighting-in-real-time/</a>
   </i>
 </p>
-<br> 
+
 As demand is growing for peppers, farmers need to accommodate for this by increasing the yield. To match consumer demand, Mucci Farms, a produce wholesaler that has farms located in Ontario and Ohio, started expanding their acreage for their produce. During the 60s and 70s, the greenhouse industry started to evolve in Ontario as there was a lot of knowledge surrounding tomatoes, which made the greenhouse transition easy. Pepper cultivation in the greenhouse soon followed. According to Bert Mucci, the CEO of Mucci Farms, “By virtue of that timeline, there was always less pepper production, but it has ramped up in recent years as growing expertise and popularity has gone up”
 <br>
 <br>
@@ -39,7 +38,6 @@ Even though there are better, sustainable, farming techniques, that has contribu
 *Average Price ($/tonne) of Ontario Peppers. Created in Datawrapper.*
 [Interactive version here](https://datawrapper.dwcdn.net/3FemX/3/)
 
-<br>
 Ontario’s production of peppers has grown significantly since the 1980s, due to the rising popularity and demand for such product. As years progress, farming techniques improve to allow for a sustainable and efficient way to produce fruits and vegetables, especially during the colder months of the year. Although it is more efficient and profitable to grow tomatoes and cucumbers, there is still a high demand for peppers. Farmers must produce them more than ever as innovative farming is critical for feeding the country and economic growth of our industry. 
 <br>
 <br>
