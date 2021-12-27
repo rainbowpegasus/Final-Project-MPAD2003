@@ -35,9 +35,7 @@ Even though there are better, sustainable, farming techniques, that has contribu
 <br>
 <br>
 
-<p>
 <iframe title="Average Price ($/tonne) of Ontario Peppers " aria-label="Interactive line chart" id="datawrapper-chart-3FemX" src="https://datawrapper.dwcdn.net/3FemX/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
-</p>
 
 <br>
 Ontario’s production of peppers has grown significantly since the 1980s, due to the rising popularity and demand for such product. As years progress, farming techniques improve to allow for a sustainable and efficient way to produce fruits and vegetables, especially during the colder months of the year. Although it is more efficient and profitable to grow tomatoes and cucumbers, there is still a high demand for peppers. Farmers must produce them more than ever as innovative farming is critical for feeding the country and economic growth of our industry. 
