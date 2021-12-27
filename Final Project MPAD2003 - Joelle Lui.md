@@ -26,18 +26,12 @@ As demand is growing for peppers, farmers need to accommodate for this by increa
 Greenhouse farming has many benefits for growing produce, which include better control over the environment and growing conditions, a longer growing season because farms can grow produce during the winter, and it can boost organic produce because of reduced use of pesticides. Another benefit would be that they are also able to grow a wide variety of peppers in one greenhouse. Greenhouse farming of peppers allow them to be better in taste, size, appearance, and have an increase of yield. As greenhouses benefit the overall quality of produce, it is also more sustainable because the goal is to maximize energy efficiency while still producing a large amount of crop. One Ontario-based pepper greenhouse, Allegro Acres, has teamed up with Sollum Technologies to create an LED light recipe best suited for pepper production to optimize plant growth for the first time. 
 <br>
 <br>
-<br>
-
 
 <iframe title="Average Yield (tonnes/ha) of Ontario Peppers" aria-label="Interactive line chart" id="datawrapper-chart-3m4A3" src="https://datawrapper.dwcdn.net/3m4A3/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439"></iframe>
-
-
-<!--
-
 <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}()</script>
 <br>
-Even though there are better, sustainable, farming techniques, that has contributed to more yield, prices for produce are at an all time high, especially peppers. Some reasons for this price increase include the weather conditions affecting field peppers. As Ontario is province that has rainfall and is cloudy, the volumes produced are slightly lower. This results in some scarcity in the market, so prices have risen slightly. When it comes to small scale growers, Mucci Farms says it is “more efficient and profitable to grow tomatoes or cucumbers as there is always high demand for specific staple items”, which can be grown and sold exclusively. In the case of bell peppers, they “require scale to satisfy retailer and consumer demand for multiple colours and varieties”.
 <br>
+Even though there are better, sustainable, farming techniques, that has contributed to more yield, prices for produce are at an all time high, especially peppers. Some reasons for this price increase include the weather conditions affecting field peppers. As Ontario is province that has rainfall and is cloudy, the volumes produced are slightly lower. This results in some scarcity in the market, so prices have risen slightly. When it comes to small scale growers, Mucci Farms says it is “more efficient and profitable to grow tomatoes or cucumbers as there is always high demand for specific staple items”, which can be grown and sold exclusively. In the case of bell peppers, they “require scale to satisfy retailer and consumer demand for multiple colours and varieties”.
 <br>
 <br>
 
@@ -87,4 +81,3 @@ l</a></li>
 </ol>
 </p>
 
---->
