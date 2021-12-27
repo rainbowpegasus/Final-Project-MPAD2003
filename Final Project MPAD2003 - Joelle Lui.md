@@ -29,7 +29,7 @@ Greenhouse farming has many benefits for growing produce, which include better c
 <br>
 <p>
 
-<iframe  id="datawrapper-chart-3m4A3" src="https://datawrapper.dwcdn.net/3m4A3/3/"  title="Average Yield (tonnes/ha) of Ontario Peppers"></iframe>
+<iframe  src="https://datawrapper.dwcdn.net/3m4A3/3/"  title="Average Yield (tonnes/ha) of Ontario Peppers"></iframe>
 
 <!--
 
